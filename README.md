@@ -1,4 +1,6 @@
-## Hi there 👋
+## Will Pierson
+
+Hi my name is Will :) 
 
 <!--
 **WillPierson1/WillPierson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
