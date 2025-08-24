@@ -1,8 +1,16 @@
-## Will Pierson
+## Hey, I'm Will!
 
 Hi my name is Will :) 
 
-abc
+Check out the projects on my page, I've been learning:
+
+- HTML
+- CSS
+  - Tailwind CSS
+  - Bootstrap 5
+- Javascript
+
+I can't code anything without coffee. Please buy me coffee.
 
 <!--
 **WillPierson1/WillPierson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
