@@ -10,8 +10,8 @@ Check out the projects on my page, I've been learning:
   - Bootstrap 5
 - Javascript
 
-:coffee: I can't code anything without coffee
-:snowboarder: I like to snowboard!
+:coffee: I can't code anything without coffee </br>
+:snowboarder: I like to snowboard! </br>
 :telephone_receiver: I work in telecommunications
 
 Keep your eye on my profile to see my projects as I continue to learn!
